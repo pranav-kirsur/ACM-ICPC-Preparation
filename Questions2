@@ -1,0 +1,27 @@
+Problem Statement:
+Students of IIIT-H like to read a lot. So, the library is their favourite place in
+the world. They check out books very often and this has become a problem for the librarian. The librarian
+is a dumb computer science person, who likes to keep the track of the number of times a book has been
+checked out. There are N books in the library numbered from 1 to N. Usually, students like to check out a
+series of consecutive books. So in a given transaction, a student checks out all books between index L and
+R (inclusive). Not only that, they generally checks out these books many times, because they like the books
+that much. After Q such studious students come into the library, can you help our librarian figure out which
+book had been checked out the least number of times?
+Input
+The first line of the input contains a single integer T denoting the number of test cases. The description of
+T test cases follows.
+The first line of each test case contains two space-separated integers N and Q, the number of books and the
+number of studious students. Each of the next Q lines contains three space-separated integers L, R and X,
+the leftmost book number, the rightmost book number and the number of times the student checks out
+these books.
+Output
+Return the book number which had been checked out the least number of times. If there are many such
+books, return the least book number.
+Constraints
+1 ≤ T ≤ 10
+1 ≤ N ≤ 10 6
+1 ≤ Q ≤ 10 5
+1 ≤ L ≤ R ≤ N
+1 ≤ X ≤ 10 9
+Time Limit: 1 sec
+Memory Limit: 256 MB
