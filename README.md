@@ -36,6 +36,7 @@ In this course we will use some tools for the questions. As I mentioned above al
   - [Codeforces](http://codeforces.com)
   - [Lightoj](http://www.lightoj.com)
   - [ACM-Timus](http://acm.timus.ru)
+  - [Codechef](https://www.codechef.com)
 
 I gave these tools name because you may not be able to submit your solution or display the question for some websites. It would be better if you just sign up. Although it is not neccesary...
 
