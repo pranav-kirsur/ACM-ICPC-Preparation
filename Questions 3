@@ -1,0 +1,30 @@
+Bacterial Growth
+Assignment 2
+Computer Programming
+Due date: TBA
+Problem Statement:
+In the city of Bacteriapur lives bacterias which are known to have a fast growing
+mechanism. For every time instant t, the number of bacterias living in Bacteriapur gets incremented by
+t times the current population. (starting with initial population, P 0 = 1). Your task is to calculate the
+population of Bacteriapur at a given time instant t.
+Input
+First line contains an integer T denoting the number of test cases. Each of the next T lines contains an
+integer t, denoting the time instant at which population of Bacteriapur needs to be calculated.
+Output
+For each test case, output a single integer denoting the population of Bacteriapur after the given time
+instant t
+Constraints
+1 ≤ T ≤ 100
+0 ≤ t ≤ 500
+Time Limit: 1 sec
+Memory Limit: 256 MB
+Sample Test Case
+Input
+3
+1
+2
+3
+Output
+2
+6
+24
