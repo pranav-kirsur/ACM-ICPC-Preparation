@@ -8,6 +8,7 @@
 #### Other Study Sources
 - [GeeksforGeeks](http://www.geeksforgeeks.org/dynamic-programming-set-10-0-1-knapsack-problem/)
 - [Youtube - CS Dojo](https://www.youtube.com/watch?v=xOlhR_2QCXY)
+- [Hackerearth](https://www.hackerearth.com/practice/notes/the-knapsack-problem/)
 
 #### Source Codes
 - [BedirT - Optimized Knapsack](https://github.com/BedirT/Algorithms_and_DS/blob/master/Algorithms/Dynamic/Optimized%20Knapsack.cpp)
@@ -23,6 +24,7 @@
 
 #### Other Study Sources
 - [Youtube - ONeill Code](https://www.youtube.com/watch?v=jaNZ83Q3QGc&t=205s)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/coin-change-dp-7/)
 
 #### Source Codes
 - [BedirT](https://github.com/NAU-ACM/ICPC-Question-Solving/blob/master/BedirT/Chapter%203/UVa%20-%2000357.cpp)
