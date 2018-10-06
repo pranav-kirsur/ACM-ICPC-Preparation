@@ -8,9 +8,12 @@
 - [Wikipedia](https://en.wikipedia.org/wiki/Euclidean_algorithm)
 - [Youtube - Learn Math Tutorials](https://www.youtube.com/watch?v=JUzYl1TYMcU)
 - [GeeksforGeeks](http://www.geeksforgeeks.org/basic-and-extended-euclidean-algorithms/)
+- [Khan Academy](https://www.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/the-euclidean-algorithm)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/c-program-find-gcd-hcf-two-numbers/)
 
 
 ### Greatest Common Division (GCD)
+
 
 #### Source Codes
 - Bedir - [C++](https://github.com/BedirT/AlgorithmsL/blob/master/Algorithms/Math/GCD%20and%20LCM%20Euclid%20Algorithm.cpp)
